@@ -1,0 +1,22 @@
+p {
+    color : green;
+    text-align: center
+}
+
+h1 {
+    color : gold;
+    font-size: 70pt;
+    text-align: center
+}
+h2 {
+    font-size: 30pt;
+    text-align: center
+}
+span {
+    color : rgb(248, 6, 228)
+}
+
+img {
+    float: center;
+}
+
